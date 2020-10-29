@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.b062bc69.chunk.css",
-    "main.js": "/static/js/main.52d66393.chunk.js",
-    "main.js.map": "/static/js/main.52d66393.chunk.js.map",
+    "main.css": "/static/css/main.2a44c190.chunk.css",
+    "main.js": "/static/js/main.78fe1c55.chunk.js",
+    "main.js.map": "/static/js/main.78fe1c55.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7a712340.js",
     "runtime-main.js.map": "/static/js/runtime-main.7a712340.js.map",
     "static/js/2.aa100119.chunk.js": "/static/js/2.aa100119.chunk.js",
     "static/js/2.aa100119.chunk.js.map": "/static/js/2.aa100119.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.91098597519b33527f4bf36d731a74fd.js": "/precache-manifest.91098597519b33527f4bf36d731a74fd.js",
+    "precache-manifest.35ff0bfb0b01dea4c3ac60159691febf.js": "/precache-manifest.35ff0bfb0b01dea4c3ac60159691febf.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.b062bc69.chunk.css.map": "/static/css/main.b062bc69.chunk.css.map",
+    "static/css/main.2a44c190.chunk.css.map": "/static/css/main.2a44c190.chunk.css.map",
     "static/js/2.aa100119.chunk.js.LICENSE.txt": "/static/js/2.aa100119.chunk.js.LICENSE.txt",
     "static/media/githublogo.png": "/static/media/githublogo.1955b951.png",
     "static/media/gmaillogo.png": "/static/media/gmaillogo.a576f775.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.7a712340.js",
     "static/js/2.aa100119.chunk.js",
-    "static/css/main.b062bc69.chunk.css",
-    "static/js/main.52d66393.chunk.js"
+    "static/css/main.2a44c190.chunk.css",
+    "static/js/main.78fe1c55.chunk.js"
   ]
 }
