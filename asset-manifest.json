@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.02cd8611.chunk.css",
-    "main.js": "/static/js/main.74506301.chunk.js",
-    "main.js.map": "/static/js/main.74506301.chunk.js.map",
+    "main.css": "/static/css/main.15cf19e5.chunk.css",
+    "main.js": "/static/js/main.f32127da.chunk.js",
+    "main.js.map": "/static/js/main.f32127da.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7a712340.js",
     "runtime-main.js.map": "/static/js/runtime-main.7a712340.js.map",
-    "static/js/2.00783f86.chunk.js": "/static/js/2.00783f86.chunk.js",
-    "static/js/2.00783f86.chunk.js.map": "/static/js/2.00783f86.chunk.js.map",
+    "static/js/2.aa100119.chunk.js": "/static/js/2.aa100119.chunk.js",
+    "static/js/2.aa100119.chunk.js.map": "/static/js/2.aa100119.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.139973863c5ae847db0f6baa607d3e57.js": "/precache-manifest.139973863c5ae847db0f6baa607d3e57.js",
+    "precache-manifest.256401ba47f29081b4cb136d2e269f65.js": "/precache-manifest.256401ba47f29081b4cb136d2e269f65.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.02cd8611.chunk.css.map": "/static/css/main.02cd8611.chunk.css.map",
-    "static/js/2.00783f86.chunk.js.LICENSE.txt": "/static/js/2.00783f86.chunk.js.LICENSE.txt",
+    "static/css/main.15cf19e5.chunk.css.map": "/static/css/main.15cf19e5.chunk.css.map",
+    "static/js/2.aa100119.chunk.js.LICENSE.txt": "/static/js/2.aa100119.chunk.js.LICENSE.txt",
     "static/media/githublogo.png": "/static/media/githublogo.1955b951.png",
     "static/media/gmaillogo.png": "/static/media/gmaillogo.a576f775.png",
     "static/media/joshuatree.png": "/static/media/joshuatree.63503790.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7a712340.js",
-    "static/js/2.00783f86.chunk.js",
-    "static/css/main.02cd8611.chunk.css",
-    "static/js/main.74506301.chunk.js"
+    "static/js/2.aa100119.chunk.js",
+    "static/css/main.15cf19e5.chunk.css",
+    "static/js/main.f32127da.chunk.js"
   ]
 }
